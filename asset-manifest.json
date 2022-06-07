@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/IrlixTask/static/css/main.4f94244b.css",
+    "main.js": "/IrlixTask/static/js/main.b7ab36c7.js",
+    "static/media/irlix-logo.svg": "/IrlixTask/static/media/irlix-logo.2e6a1d360265fbfc387fdc9225683e2f.svg",
+    "index.html": "/IrlixTask/index.html",
+    "main.4f94244b.css.map": "/IrlixTask/static/css/main.4f94244b.css.map",
+    "main.b7ab36c7.js.map": "/IrlixTask/static/js/main.b7ab36c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f94244b.css",
+    "static/js/main.b7ab36c7.js"
+  ]
+}
